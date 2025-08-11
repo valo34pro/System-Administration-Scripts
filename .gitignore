@@ -1,0 +1,23 @@
+# Ignore Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore PowerShell script execution cache
+*.ps1~
+*.ps1.xml
+*.ps1.bak
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore compiled scripts
+*.ps1c
+
+# Ignore local module builds
+Modules/
